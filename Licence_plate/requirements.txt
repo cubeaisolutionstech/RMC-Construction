@@ -1,0 +1,7 @@
+landingai
+pandas
+openpyxl
+gdown
+pillow
+opencv-python
+ipython
